@@ -1,0 +1,3 @@
+# Surpress EOL conversion
+*.msix -text
+*.msix.* -text
